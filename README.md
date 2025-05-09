@@ -36,6 +36,8 @@ customers.
 # 6. Results
 Model performance for three algorithms:
 ![Result](https://github.com/KEVIN-VN642/Fraudulent-Transaction-Detection-Model-with-Big-Data-PySpark/blob/main/Model%20Performance.png){width=300 height=200}
+<img src="Model Performance.png" alt="My Image" width="300">
+
 
 
 # 7. Conclusion<a id="conclude"></a>
