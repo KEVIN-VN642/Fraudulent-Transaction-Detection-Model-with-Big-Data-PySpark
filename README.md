@@ -6,7 +6,8 @@
 3. [Data](#data)
 4. [Methodology](#method)
 5. [Modelling](#model)
-6. [Conclusion](#conclude)
+6. [Result](#result)
+7. [Conclusion](#conclude)
 
 
 ## 1. Introduction <a id="intro"></a>
@@ -33,13 +34,10 @@ The dataset was highly imbalanced, with about 99.83% of transactions being non-f
 Given the nature of our dataset, it was more suitable to use precision, recall, f1-scores, area under ROC curve and area under PR curve to measure model performance. Recall and precision are reliable metrics to assess the predictive strength of fraud detection models.
 The strongest model we built was a random forest model, which achieved a precision of 82.0% and a recall of 82.6%. Since the community version of Databricks has limited computation power, hyper-parameter tuning was challenging, with models taking hours to run. However, this model has the power to help financial institutions reduce time and workload to find fraudulent transactions and mitigate financial impacts to their 
 customers. 
-# 6. Results
+# 6. Results<a id="result"></a>
 Model performance for three algorithms:
 
 <p align="center"> <img src="Model Performance.png" alt="Model Performance" width="500" height = "300"> </p>
-
-
-
 
 # 7. Conclusion<a id="conclude"></a>
 Fraudulent activities aren’t going anywhere and creating strongly predictive fraud detection models is extremely important for financial institutions and their clients. With fraudsters becoming more and more imaginative, financial institutions need to heavily rely on machine learning and the advancements in big data management systems and tools to face these threats.
