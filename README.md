@@ -36,7 +36,7 @@ customers.
 # 6. Results
 Model performance for three algorithms:
 
-<img src="Model Performance.png" alt="Model Performance" width="400" height = 200>
+<img src="Model Performance.png" alt="Model Performance" width="500" height = "300">
 
 
 
