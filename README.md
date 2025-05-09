@@ -35,7 +35,8 @@ The strongest model we built was a random forest model, which achieved a precisi
 customers. 
 # 6. Results
 Model performance for three algorithms:
-![Result](https://github.com/KEVIN-VN642/Fraudulent-Transaction-Detection-Model-with-Big-Data-PySpark/blob/main/Model%20Performance.png)
+![Result](https://github.com/KEVIN-VN642/Fraudulent-Transaction-Detection-Model-with-Big-Data-PySpark/blob/main/Model%20Performance.png){width=300 height=200}
+
 
 # 7. Conclusion<a id="conclude"></a>
 Fraudulent activities aren’t going anywhere and creating strongly predictive fraud detection models is extremely important for financial institutions and their clients. With fraudsters becoming more and more imaginative, financial institutions need to heavily rely on machine learning and the advancements in big data management systems and tools to face these threats.
