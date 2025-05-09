@@ -37,7 +37,7 @@ customers.
 # 6. Results<a id="result"></a>
 The table below summarize model performance on different metrics. It can be easy to see that Random Forest Model yield the highest result.
 
-<p align="center"> <img src="Model Performance.png" alt="Model Performance" width="500" height = "300"> </p>
+<p align="center"> <img src="Model Performance.png" alt="Model Performance" width="450" height = "250"> </p>
 
 # 7. Conclusion<a id="conclude"></a>
 Fraudulent activities aren’t going anywhere and creating strongly predictive fraud detection models is extremely important for financial institutions and their clients. With fraudsters becoming more and more imaginative, financial institutions need to heavily rely on machine learning and the advancements in big data management systems and tools to face these threats.
