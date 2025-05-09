@@ -35,7 +35,7 @@ Given the nature of our dataset, it was more suitable to use precision, recall, 
 The strongest model we built was a random forest model, which achieved a precision of 82.0% and a recall of 82.6%. Since the community version of Databricks has limited computation power, hyper-parameter tuning was challenging, with models taking hours to run. However, this model has the power to help financial institutions reduce time and workload to find fraudulent transactions and mitigate financial impacts to their 
 customers. 
 # 6. Results<a id="result"></a>
-Model performance for three algorithms:
+The table below summarize model performance on different metrics. It can be easy to see that Random Forest Model yield the highest result.
 
 <p align="center"> <img src="Model Performance.png" alt="Model Performance" width="500" height = "300"> </p>
 
