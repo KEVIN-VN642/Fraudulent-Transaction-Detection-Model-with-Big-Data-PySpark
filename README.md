@@ -15,7 +15,7 @@
 Consumer credit cards are a vital part of the economic infrastructure in the modern world, and are ubiquitous in usage in most countries. In the United States alone, over $3 trillion dollars moved through credit cards in 2021, with over 72% of adults having at least one credit card. 
 Fraudulent transactions pose a risk to both customers and credit card companies, and their impact on the business is significant. Fraud across all customer cards worldwide is estimated to be 6.81 cents per $100 in total volume in 2020, with a total of $10.24 billion fraud losses in 2020 for the United States alone. As such, credit card companies are faced with the challenge of processing and identifying transactions as valid or fraudulent in real time to provide the best customer experience and maintain their reputation. 
 
-The goal of our project was to build a strongly predictive machine learning classification model using Spark’s MLLib library to identify fraudulent transactions, while dealing with class imbalanced data.
+The goal of our project was to build a strongly predictive machine learning classification model using Spark’s ML library to identify fraudulent transactions, while dealing with class imbalanced data.
 
 ## 2. Software Requirement <a id="require"></a>
 In order to execute this project, you need an account from Databrick platform which used for Big Data computation. A free acount is availabe at community edition of Databricks which can be found [here](https://community.cloud.databricks.com/login.html). You also need knowledge about Pyspark, SQL and Python programming. Databricks allows you to execute Python, Pyspark, SQL and R on the same notebook.
