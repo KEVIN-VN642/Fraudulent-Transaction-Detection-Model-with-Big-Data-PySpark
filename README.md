@@ -51,6 +51,7 @@ https://github.com/KEVIN-VN642/Fraudulent-Transaction-Detection-Model-with-Big-D
 - Exploratory data analysis (EDA):
   
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3514859587127367/3214849744087448/5495093447822595/latest.html
+https://dbc-67e08008-71e6.cloud.databricks.com/editor/notebooks/4367290559742487?o=2028901202607458
 - Building model:
   
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3514859587127367/489962228684301/5495093447822595/latest.html
