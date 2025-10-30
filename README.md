@@ -45,7 +45,7 @@ Fraudulent activities aren’t going anywhere and creating strongly predictive f
 Please find the detailed results in <b>Credit Card_Fraud Detection_ Report.pdf</b> file
 Codes can be found in two ipynb files or import directed from below links:
 
-- Report:
+- Credit Card Fraud Detection Report:
   
 https://github.com/KEVIN-VN642/Fraudulent-Transaction-Detection-Model-with-Big-Data-PySpark/blob/main/Credit%20Card_Fraud%20Detection_Report.pdf
 - Exploratory data analysis (EDA):
