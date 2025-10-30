@@ -1,4 +1,4 @@
-# Building a model to detect fraudulent transactions using big data technology (Pyspark)
+# Building a model to detect fraudulent transactions using big data technology (PysparkML)
 
 ### Table of Contents
 1. [Introduction](#intro)
